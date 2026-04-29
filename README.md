@@ -66,6 +66,46 @@ Visual builder for ScrapeGraphAI agentic scraping pipelines.
 
 [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft)
 
+### firecrawl
+
+Production-grade web crawler that turns sites into LLM-ready Markdown / structured data — the engine behind the Firecrawl service.
+
+![Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=flat) ![Last commit](https://img.shields.io/github/last-commit/mendableai/firecrawl?style=flat)
+
+[mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+
+### Scrapegraph-ai
+
+Python library for LLM-driven web scraping — describe what you want in natural language, get structured data.
+
+![Stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat) ![Last commit](https://img.shields.io/github/last-commit/ScrapeGraphAI/Scrapegraph-ai?style=flat)
+
+[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
+
+### crawl4ai
+
+LLM-friendly web crawler with adaptive extraction, JS rendering, and Markdown output.
+
+![Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat) ![Last commit](https://img.shields.io/github/last-commit/unclecode/crawl4ai?style=flat)
+
+[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+
+### gpt-crawler
+
+Crawl a site and produce a single knowledge file you can drop into a custom GPT or RAG pipeline.
+
+![Stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=flat) ![Last commit](https://img.shields.io/github/last-commit/BuilderIO/gpt-crawler?style=flat)
+
+[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)
+
+### llmsherpa
+
+Layout-aware document extraction for LLMs — preserves sections, tables, and lists from PDFs/HTML.
+
+![Stars](https://img.shields.io/github/stars/nlmatics/llmsherpa?style=flat) ![Last commit](https://img.shields.io/github/last-commit/nlmatics/llmsherpa?style=flat)
+
+[nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa)
+
 ---
 
 ## MCP Servers
@@ -318,6 +358,38 @@ Scraper / automation toolkit for X (Twitter) — extract posts, threads, and pro
 
 [nirholas/XActions](https://github.com/nirholas/XActions)
 
+### crawlee
+
+Production-grade Node.js crawler framework — handles queueing, retries, proxies, and storage.
+
+![Stars](https://img.shields.io/github/stars/apify/crawlee?style=flat) ![Last commit](https://img.shields.io/github/last-commit/apify/crawlee?style=flat)
+
+[apify/crawlee](https://github.com/apify/crawlee)
+
+### crawlee-python
+
+Python port of Crawlee — full-featured crawler framework with HTTP and browser-based fetchers.
+
+![Stars](https://img.shields.io/github/stars/apify/crawlee-python?style=flat) ![Last commit](https://img.shields.io/github/last-commit/apify/crawlee-python?style=flat)
+
+[apify/crawlee-python](https://github.com/apify/crawlee-python)
+
+### requests-html
+
+Pythonic, high-level HTTP scraping library with built-in HTML parsing and JS rendering.
+
+![Stars](https://img.shields.io/github/stars/psf/requests-html?style=flat) ![Last commit](https://img.shields.io/github/last-commit/psf/requests-html?style=flat)
+
+[psf/requests-html](https://github.com/psf/requests-html)
+
+### MechanicalSoup
+
+Python library for automating interaction with websites — wraps Requests and BeautifulSoup.
+
+![Stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup?style=flat) ![Last commit](https://img.shields.io/github/last-commit/MechanicalSoup/MechanicalSoup?style=flat)
+
+[MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup)
+
 ---
 
 ## Extractors & Parsers
@@ -331,6 +403,54 @@ Library for extracting structured metadata (title, author, image, publication da
 ![Stars](https://img.shields.io/github/stars/microlinkhq/metascraper?style=flat) ![Last commit](https://img.shields.io/github/last-commit/microlinkhq/metascraper?style=flat)
 
 [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper)
+
+### trafilatura
+
+Best-in-class Python library for web text and metadata extraction — article body, comments, publication date, language.
+
+![Stars](https://img.shields.io/github/stars/adbar/trafilatura?style=flat) ![Last commit](https://img.shields.io/github/last-commit/adbar/trafilatura?style=flat)
+
+[adbar/trafilatura](https://github.com/adbar/trafilatura)
+
+### readability
+
+Mozilla's standalone version of the Reader Mode library — turns cluttered pages into clean article text.
+
+![Stars](https://img.shields.io/github/stars/mozilla/readability?style=flat) ![Last commit](https://img.shields.io/github/last-commit/mozilla/readability?style=flat)
+
+[mozilla/readability](https://github.com/mozilla/readability)
+
+### goose3
+
+Article extractor for Python — pulls main text, top image, and metadata from news pages.
+
+![Stars](https://img.shields.io/github/stars/goose3/goose3?style=flat) ![Last commit](https://img.shields.io/github/last-commit/goose3/goose3?style=flat)
+
+[goose3/goose3](https://github.com/goose3/goose3)
+
+### newspaper
+
+Article scraping and curation for Python (newspaper3k) — author, publish date, top image, full text.
+
+![Stars](https://img.shields.io/github/stars/codelucas/newspaper?style=flat) ![Last commit](https://img.shields.io/github/last-commit/codelucas/newspaper?style=flat)
+
+[codelucas/newspaper](https://github.com/codelucas/newspaper)
+
+### cheerio
+
+jQuery-style server-side HTML parsing and manipulation for Node.js — fast and lean.
+
+![Stars](https://img.shields.io/github/stars/cheeriojs/cheerio?style=flat) ![Last commit](https://img.shields.io/github/last-commit/cheeriojs/cheerio?style=flat)
+
+[cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
+
+### lxml
+
+Fast, feature-rich Python library for processing XML and HTML — backbone of many scrapers.
+
+![Stars](https://img.shields.io/github/stars/lxml/lxml?style=flat) ![Last commit](https://img.shields.io/github/last-commit/lxml/lxml?style=flat)
+
+[lxml/lxml](https://github.com/lxml/lxml)
 
 ---
 
@@ -354,6 +474,14 @@ Markdown parser and renderer for Go.
 
 [gomarkdown/markdown](https://github.com/gomarkdown/markdown)
 
+### markitdown
+
+Microsoft's any-file-to-Markdown converter — handles PDFs, Office docs, images (OCR), audio (transcription), HTML, and more. Canonical input pre-processor for LLMs.
+
+![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat) ![Last commit](https://img.shields.io/github/last-commit/microsoft/markitdown?style=flat)
+
+[microsoft/markitdown](https://github.com/microsoft/markitdown)
+
 ---
 
 ## Document & Component Extraction
@@ -367,6 +495,38 @@ ML-driven data extraction from documents — invoices, receipts, forms — with 
 ![Stars](https://img.shields.io/github/stars/katanaml/sparrow?style=flat) ![Last commit](https://img.shields.io/github/last-commit/katanaml/sparrow?style=flat)
 
 [katanaml/sparrow](https://github.com/katanaml/sparrow)
+
+### unstructured
+
+Open-source library for partitioning, cleaning, and chunking unstructured documents (PDF, DOCX, HTML, images, email) for LLM ingestion.
+
+![Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Unstructured-IO/unstructured?style=flat)
+
+[Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)
+
+### docling
+
+IBM's document conversion toolkit — PDF, DOCX, PPTX, images → structured Markdown/JSON with layout understanding.
+
+![Stars](https://img.shields.io/github/stars/DS4SD/docling?style=flat) ![Last commit](https://img.shields.io/github/last-commit/DS4SD/docling?style=flat)
+
+[DS4SD/docling](https://github.com/DS4SD/docling)
+
+### pypdf
+
+Pure-Python PDF library — read, split, merge, extract text and metadata.
+
+![Stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=flat) ![Last commit](https://img.shields.io/github/last-commit/py-pdf/pypdf?style=flat)
+
+[py-pdf/pypdf](https://github.com/py-pdf/pypdf)
+
+### PyMuPDF
+
+High-performance PDF / e-book library (MuPDF bindings) — fast text and image extraction.
+
+![Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pymupdf/PyMuPDF?style=flat)
+
+[pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 
 ---
 
