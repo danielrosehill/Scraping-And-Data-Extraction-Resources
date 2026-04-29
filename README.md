@@ -152,6 +152,70 @@ Official MCP server for the Crawlbase scraping API.
 
 [crawlbase/crawlbase-mcp](https://github.com/crawlbase/crawlbase-mcp)
 
+### mcp-web-scrape
+
+MCP server exposing web-scraping tools to LLM agents.
+
+![Stars](https://img.shields.io/github/stars/mukul975/mcp-web-scrape?style=flat) ![Last commit](https://img.shields.io/github/last-commit/mukul975/mcp-web-scrape?style=flat)
+
+[mukul975/mcp-web-scrape](https://github.com/mukul975/mcp-web-scrape)
+
+### mcp-server-docy
+
+MCP server for fetching and serving documentation pages to agents.
+
+![Stars](https://img.shields.io/github/stars/oborchers/mcp-server-docy?style=flat) ![Last commit](https://img.shields.io/github/last-commit/oborchers/mcp-server-docy?style=flat)
+
+[oborchers/mcp-server-docy](https://github.com/oborchers/mcp-server-docy)
+
+### scraper-mcp
+
+MCP server wrapping a general-purpose web scraper.
+
+![Stars](https://img.shields.io/github/stars/cotdp/scraper-mcp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/cotdp/scraper-mcp?style=flat)
+
+[cotdp/scraper-mcp](https://github.com/cotdp/scraper-mcp)
+
+### browsegenie
+
+Browser-driven scraping MCP — agent-controlled page extraction.
+
+![Stars](https://img.shields.io/github/stars/PushpenderIndia/browsegenie?style=flat) ![Last commit](https://img.shields.io/github/last-commit/PushpenderIndia/browsegenie?style=flat)
+
+[PushpenderIndia/browsegenie](https://github.com/PushpenderIndia/browsegenie)
+
+### opencode-browser
+
+Browser tool integration for OpenCode — fetch and extract page content for agent context.
+
+![Stars](https://img.shields.io/github/stars/michaljach/opencode-browser?style=flat) ![Last commit](https://img.shields.io/github/last-commit/michaljach/opencode-browser?style=flat)
+
+[michaljach/opencode-browser](https://github.com/michaljach/opencode-browser)
+
+### markitdown_mcp_server
+
+MCP server wrapping Microsoft's `markitdown` — convert files and URLs to Markdown for LLM consumption.
+
+![Stars](https://img.shields.io/github/stars/KorigamiK/markitdown_mcp_server?style=flat) ![Last commit](https://img.shields.io/github/last-commit/KorigamiK/markitdown_mcp_server?style=flat)
+
+[KorigamiK/markitdown_mcp_server](https://github.com/KorigamiK/markitdown_mcp_server)
+
+### scrapling-fetch-mcp
+
+MCP server wrapping Scrapling — undetectable, adaptive page fetching exposed as an agent tool.
+
+![Stars](https://img.shields.io/github/stars/cyberchitta/scrapling-fetch-mcp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/cyberchitta/scrapling-fetch-mcp?style=flat)
+
+[cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp)
+
+### html-to-markdown-mcp
+
+MCP server that converts arbitrary HTML to clean Markdown — ideal for piping scraped pages into LLM context.
+
+![Stars](https://img.shields.io/github/stars/levz0r/html-to-markdown-mcp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/levz0r/html-to-markdown-mcp?style=flat)
+
+[levz0r/html-to-markdown-mcp](https://github.com/levz0r/html-to-markdown-mcp)
+
 ---
 
 ## Frameworks / Tools
@@ -245,6 +309,14 @@ Stealth scraping toolkit aimed at evading bot detection.
 ![Stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=flat) ![Last commit](https://img.shields.io/github/last-commit/h4ckf0r0day/obscura?style=flat)
 
 [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+
+### XActions
+
+Scraper / automation toolkit for X (Twitter) — extract posts, threads, and profile data.
+
+![Stars](https://img.shields.io/github/stars/nirholas/XActions?style=flat) ![Last commit](https://img.shields.io/github/last-commit/nirholas/XActions?style=flat)
+
+[nirholas/XActions](https://github.com/nirholas/XActions)
 
 ---
 
@@ -357,6 +429,14 @@ Comprehensive awesome-list of web-scraping tools across languages.
 ![Stars](https://img.shields.io/github/stars/lorien/awesome-web-scraping?style=flat) ![Last commit](https://img.shields.io/github/last-commit/lorien/awesome-web-scraping?style=flat)
 
 [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
+
+### awesome-mcp-api
+
+Awesome-list of MCP servers exposing APIs and data sources to LLM agents — useful for finding scrape/fetch-style MCP tools.
+
+![Stars](https://img.shields.io/github/stars/kawsarlog/awesome-mcp-api?style=flat) ![Last commit](https://img.shields.io/github/last-commit/kawsarlog/awesome-mcp-api?style=flat)
+
+[kawsarlog/awesome-mcp-api](https://github.com/kawsarlog/awesome-mcp-api)
 
 ---
 
