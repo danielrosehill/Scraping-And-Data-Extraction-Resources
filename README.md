@@ -362,9 +362,7 @@ Comprehensive awesome-list of web-scraping tools across languages.
 
 ## Related Indexes
 
-Daniel's own indexes that overlap with this one.
-
-- **[AI-Browser-Tools](https://github.com/danielrosehill/AI-Browser-Tools)** — agentic browser automation, where the goal is task completion rather than data extraction.
+- **[AI-Browser-Tools](https://github.com/danielrosehill/AI-Browser-Tools)** — browser automation and browserless agentic browsing. See [SCOPE.md](./SCOPE.md) for disambiguation.
 
 ---
 
