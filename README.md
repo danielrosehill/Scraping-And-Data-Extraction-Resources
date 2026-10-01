@@ -256,6 +256,12 @@ MCP server that converts arbitrary HTML to clean Markdown — ideal for piping s
 
 [levz0r/html-to-markdown-mcp](https://github.com/levz0r/html-to-markdown-mcp)
 
+### vend-api-merchant
+
+Hosted, remote pay-per-call web-data MCP server settled in Nano (XNO). 8 tools: web extract (URL → clean markdown/text), web search, link check, URL status, domain info, geoip, Nano account info, YouTube transcript. No API key, no signup — an agent calls a tool, receives an x402 payment challenge (HTTP 402), pays the metered amount once in Nano, and gets the result.
+
+Remote streaming MCP: `https://extract.paypercall.dev/mcp` · search endpoint: `https://search.paypercall.dev/api/v1/neural-search?q=` (relevance-ranked, for finding URLs to extract) · x402 manifest: `https://extract.paypercall.dev/.well-known/x402` · [MCP Registry entry](https://registry.modelcontextprotocol.io/v0/servers?search=paypercall)
+
 ---
 
 ## Frameworks / Tools
