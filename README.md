@@ -144,6 +144,14 @@ Official MCP server for ScrapeGraphAI — agentic, schema-driven web scraping.
 
 [ScrapeGraphAI/scrapegraph-mcp](https://github.com/ScrapeGraphAI/scrapegraph-mcp)
 
+### Google and YouTube data MCP by FlashData
+
+MIT-licensed stdio MCP and JSON CLI for Google Search, News, Images, Shopping, Videos and Places, plus YouTube search, extended search, metadata, existing transcripts/captions, license labels, channels, autocomplete and asynchronous media delivery to customer storage. Requires an API key and paid Credits; search results are not full-page extraction and caption retrieval is not speech recognition.
+
+![Stars](https://img.shields.io/github/stars/rocosen/flashdata-mcp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/rocosen/flashdata-mcp?style=flat)
+
+[Source and install](https://github.com/rocosen/flashdata-mcp) · [15 task guides and source documentation](https://github.com/rocosen/flashdata-mcp/blob/main/registry/README.md#all-15-capabilities)
+
 ### supadata mcp
 
 MCP server for Supadata — structured data extraction from web, YouTube, and documents.
