@@ -90,6 +90,12 @@ LLM-friendly web crawler with adaptive extraction, JS rendering, and Markdown ou
 
 [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 
+### AdsCrawl
+
+Hosted extraction API that renders a URL to HTML or Markdown, extracts named fields with CSS selectors, and captures screenshots. Useful for preparing browser-rendered page content for LLM context or RAG ingestion.
+
+[AdsCrawl](https://www.adscrawl.net/) · [HTTP API quickstart](https://api.adscrawl.net/docs/agent-quickstart.md)
+
 ### gpt-crawler
 
 Crawl a site and produce a single knowledge file you can drop into a custom GPT or RAG pipeline.
